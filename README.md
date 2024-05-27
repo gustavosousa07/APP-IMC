@@ -42,8 +42,8 @@ A fórmula usada para calcular o IMC é:
 ## Capturas de tela do aplicativo
 
 <p>
-  <img src="img-1.jpeg" alt="imagem01" height="150" width="150">
-  ]<img src="img-2.jpeg" alt="imagem02"  height="150" width="150">
+  <img src="img-1.jpeg" alt="imagem01" height="200" width="200">
+  ]<img src="img-2.jpeg" alt="imagem02"  height="200" width="200">
 </p>
 
 ## Instalação
